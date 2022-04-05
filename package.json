@@ -1,0 +1,9 @@
+{
+  "name": "acw-nodejs",
+  "version": "1.0.0",
+  "description": "minimalist framework with basic webserver features and no dependecies",
+  "main": "index.js",
+  "keywords": ["NodeJS", "Minimalist", "Framework"],
+  "author": "Antonio Carlos",
+  "license": "ISC"
+}
